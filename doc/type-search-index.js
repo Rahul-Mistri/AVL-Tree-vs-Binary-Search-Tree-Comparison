@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ExtractData"},{"p":"<Unnamed>","l":"Power"},{"p":"<Unnamed>","l":"PowerAVLApp"},{"p":"<Unnamed>","l":"PowerBSTApp"}]
